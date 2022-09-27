@@ -1,6 +1,6 @@
 ## Hi, I'm Ives Pires... Welcome to my universe! 👋
 
-- 🚀 Hoje desenvolvo e crio sites com front-end
+- 🚀 Hoje desenvolvo e crio sites como front-end
 - 🌱 Estudando Typescripte e React
 - 📫 Contate-me no e-mail: ivespmiranda@hotmail.com
 - 🙂 Pronouns: ele/dele
