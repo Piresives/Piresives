@@ -1,11 +1,3 @@
-  <style>
-  #skills {
-    display: flex;
-    margin-top: 30px;
-    justify-content: center;
-    gap: 20px;
-}
-  </style>
 ## Hi, I'm Ives Pires... Welcome to my universe! 👋
 
 - 🚀 Hoje desenvolvo e crio sites como front-end
