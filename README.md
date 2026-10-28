@@ -1,56 +1,98 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8234e9&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8234e9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+quer+se+impactar+com+meus+projetos+?;Dê+uma+olhada+em+meu+perfil!)](https://git.io/typing-svg) 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Piresives&show_icons=true&count_private=true&hide_border=true&title_color=8234e9&icon_color=8234e9&text_color=c9d1d9&bg_color=0d1117" alt="Ives Pires de Miranda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piresives&layout=compact&hide_border=true&title_color=8234e9&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piresives&bg_color=3c1f6b&color=ffffff&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piresives&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/ives_pmiranda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/ives-pires-de-miranda-642a02225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp; 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117&textColor=0D1117)&nbsp;
+<h1 align="center">Olá 👋, eu sou o Ives</h1>
+
+<h3 align="center">Desenvolvedor Full Stack</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Quer+se+impactar+com+meus+projetos%3F;%3E+D%C3%AA+uma+olhada+em+meu+perfil!;%3E+Se+compila%2C+fica." alt="Typing SVG" />
+</p>
+
+<p align="center">
+Construindo interfaces modernas e aplicações web completas, do front ao back.
+</p>
+
+
+<h2 align="center">🚀 Sobre mim</h2>
+
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+
+**Ives Pires de Miranda aqui** 👋, desenvolvedor web e fundador do [carnauba.io](https://carnaubaio.com.br/), um SaaS para gestão de estéticas automotivas.
+
+Trabalho com **React, Next.js, TypeScript e Tailwind CSS**, desenvolvendo aplicações web, integrações com APIs e automações com IA.
+
+Gosto de construir produtos completos, com código limpo, interfaces bem cuidadas e soluções que resolvam problemas reais.
+
+Meu objetivo continua simples: entregar software confiável e evoluir a cada projeto.
+
+<br clear="right"/>
+
+<h2 align="center">🤝 Conecte-se</h2>
+
+<p align="center">
+  <a href="https://github.com/Piresives">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ives-pires-de-miranda-642a02225/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ives_pmiranda/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,js,tailwind,html,css,vue,php,mysql,vite,vscode,git" />
+</p>
+
+<p align="center">
+  <img src="./assets/icons/claudecode.svg" height="48" alt="Claude Code" title="Claude Code" />
+  &nbsp;
+  <img src="./assets/icons/openai.svg" height="48" alt="OpenAI" title="OpenAI" />
+  &nbsp;
+  <img src="./assets/icons/shadcn.svg" height="48" alt="shadcn/ui" title="shadcn/ui" />
+  &nbsp;
+  <img src="./assets/icons/hermes.svg" height="48" alt="Hermes Agent" title="Hermes Agent (Nous Research)" />
+</p>
+
+<h3 align="center">📚 Estudando agora</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="48" alt="Jest" />
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Piresives}/count.svg" /></p> 
-<br></div>
 
+<img src="https://streak-stats.demolab.com?user=Piresives&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8234e9&height=120&section=footer"/>
+</div>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piresives&theme=github_dark" alt="Activity Graph"/>
+</p>
+
+<h2 align="center">⌘ Commit Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Piresives/Piresives/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Piresives/Piresives/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Piresives/Piresives/output/pacman-contribution-graph-dark.svg">
+</picture>
